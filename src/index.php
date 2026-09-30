@@ -1,8 +1,8 @@
 <?php
 
-echo "<h1>Cloud Computing</h1>";
-echo "<h2>Praktikum Docker</h2>";
-echo "<p>Aplikasi PHP berhasil berjalan di dalam Docker Container.</p>";
+echo "<h1>Cloud Compuh2>ting</h1>";
+echo "<h2>Docker Praktikum - praktek2</h2>";
+echo "<p>Project berhasil diambil dari GitHub dan dijalankan menggunakan Docker.</p>";
 
 echo "<hr>";
 
